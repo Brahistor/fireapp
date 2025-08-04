@@ -16,27 +16,64 @@
     {
       "title": "Big Buck Bunny",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "categoryId": "animation"
     },
     {
       "title": "Elephant’s Dream",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg"
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+      "categoryId": "animation"
     },
     {
       "title": "For Bigger Blazes",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg"
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerBlazes.jpg",
+      "categoryId": "promo"
     },
     {
       "title": "Sintel Trailer",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg"
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+      "categoryId": "trailer"
     },
     {
       "title": "Tears of Steel",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg"
+      "thumbnailUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+      "categoryId": "scifi"
+    }
+  ],
+  "categories": [
+    {
+      "id": "animation",
+      "name": "Animation",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/360/360284.png"
+    },
+    {
+      "id": "promo",
+      "name": "Promos",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/5957/5957422.png"
+    },
+    {
+      "id": "trailer",
+      "name": "Trailers",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2983/2983701.png"
+    },
+    {
+      "id": "scifi",
+      "name": "Sci-Fi",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/3322/3322174.png"
+    }
+  ],
+  "music": [
+    {
+      "title": "Relaxing Guitar",
+      "url": "https://cdn.pixabay.com/download/audio/2022/03/22/audio_877c9b0e82.mp3?filename=relaxing-guitar-110427.mp3"
+    },
+    {
+      "title": "Peaceful Piano",
+      "url": "https://cdn.pixabay.com/download/audio/2021/09/07/audio_fde6ac3e43.mp3?filename=peaceful-piano-6935.mp3"
     }
   ]
 }
