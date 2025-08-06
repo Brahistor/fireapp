@@ -10,7 +10,7 @@
   "ads": {
     "mintegralAppId": "YOUR_MINTEGRAL_APP_ID",
     "mintegralAppKey": "YOUR_MINTEGRAL_APP_KEY",
-    "showAds": false
+    "showAds": true
   },
   "videos": [
     {
@@ -69,12 +69,13 @@
   "music": [
     {
       "title": "Relaxing Guitar",
-      "url": "https://cdn.pixabay.com/download/audio/2022/03/22/audio_877c9b0e82.mp3?filename=relaxing-guitar-110427.mp3"
+      "url": "https://cdn.pixabay.com/download/audio/2022/03/22/audio_877c9b0e82.mp3?filename=relaxing-guitar-110427.mp3",
+      "thumbnailUrl": "https://cdn-icons-png.flaticon.com/512/727/727245.png"
     },
     {
       "title": "Peaceful Piano",
-      "url": "https://cdn.pixabay.com/download/audio/2021/09/07/audio_fde6ac3e43.mp3?filename=peaceful-piano-6935.mp3"
+      "url": "https://cdn.pixabay.com/download/audio/2021/09/07/audio_fde6ac3e43.mp3?filename=peaceful-piano-6935.mp3",
+      "thumbnailUrl": "https://cdn-icons-png.flaticon.com/512/727/727237.png"
     }
   ]
 }
-
