@@ -10,7 +10,7 @@
   "ads": {
     "mintegralAppId": "YOUR_MINTEGRAL_APP_ID",
     "mintegralAppKey": "YOUR_MINTEGRAL_APP_KEY",
-    "showAds": true
+    "showAds": false
   },
   "videos": [
     {
@@ -79,3 +79,4 @@
     }
   ]
 }
+
